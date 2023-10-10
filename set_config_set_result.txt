@@ -1,0 +1,8 @@
+configure terminal
+
+Tue Oct 10 13:20:19.669 UTC
+RP/0/RP0/CPU0:ios(config)#interface Loopback0
+
+RP/0/RP0/CPU0:ios(config-if)#description Configured by Netmiko
+
+RP/0/RP0/CPU0:ios(config-if)#
